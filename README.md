@@ -235,3 +235,6 @@ This repository serves as the official landing page for Avro Keyboard. The softw
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Avro Keyboard today!**
+
+---
+**Last updated:** 2026-09-12 13:47:49 UTC
